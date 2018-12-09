@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             x:Class="ProyectoXamarinCPIC.View.FormsThirdView">
+   <StackLayout>
+        
+        <!--Province-->
+        <StackLayout>
+            <Label Text="Provincia"/>
+            <Picker VerticalOptions="CenterAndExpand" SelectedItem="{Binding Customer.Address.Province}">
+            <Picker.Items>
+                <x:String>Item 1</x:String>
+                <x:String>Item 2</x:String>
+            </Picker.Items>
+        </Picker>
+        </StackLayout>
+        
+         <!--District-->
+        <StackLayout>
+            <Label Text="Distrito"/>
+            <Picker VerticalOptions="CenterAndExpand">
+            <Picker.Items>
+                <x:String>Item 1</x:String>
+                <x:String>Item 2</x:String>
+            </Picker.Items>
+        </Picker>
+        </StackLayout> 
+        
+        <!--Street-->
+        <StackLayout>
+            <Label Text="Canton"/>
+            <Picker VerticalOptions="CenterAndExpand">
+            <Picker.Items>
+                <x:String>Item 1</x:String>
+                <x:String>Item 2</x:String>
+            </Picker.Items>
+        </Picker>
+        </StackLayout>
+         <StackLayout VerticalOptions="End">
+            <Button Text="GUARDAR" Command="{Binding ContinueCommand}" CommandParameter="3"/>
+        </StackLayout>
+    </StackLayout>
+</ContentPage>

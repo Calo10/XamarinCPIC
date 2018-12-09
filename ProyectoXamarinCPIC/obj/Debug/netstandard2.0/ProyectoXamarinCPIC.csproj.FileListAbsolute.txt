@@ -1,0 +1,17 @@
+/Users/carlosmendez/Projects/ProyectoXamarinCPIC/ProyectoXamarinCPIC/bin/Debug/netstandard2.0/ProyectoXamarinCPIC.deps.json
+/Users/carlosmendez/Projects/ProyectoXamarinCPIC/ProyectoXamarinCPIC/bin/Debug/netstandard2.0/ProyectoXamarinCPIC.dll
+/Users/carlosmendez/Projects/ProyectoXamarinCPIC/ProyectoXamarinCPIC/bin/Debug/netstandard2.0/ProyectoXamarinCPIC.pdb
+/Users/carlosmendez/Projects/ProyectoXamarinCPIC/ProyectoXamarinCPIC/obj/Debug/netstandard2.0/ProyectoXamarinCPIC.csprojAssemblyReference.cache
+/Users/carlosmendez/Projects/ProyectoXamarinCPIC/ProyectoXamarinCPIC/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/carlosmendez/Projects/ProyectoXamarinCPIC/ProyectoXamarinCPIC/obj/Debug/netstandard2.0/View/LoginView.xaml.g.cs
+/Users/carlosmendez/Projects/ProyectoXamarinCPIC/ProyectoXamarinCPIC/obj/Debug/netstandard2.0/ProyectoXamarinCPIC.csproj.CoreCompileInputs.cache
+/Users/carlosmendez/Projects/ProyectoXamarinCPIC/ProyectoXamarinCPIC/obj/Debug/netstandard2.0/ProyectoXamarinCPIC.AssemblyInfoInputs.cache
+/Users/carlosmendez/Projects/ProyectoXamarinCPIC/ProyectoXamarinCPIC/obj/Debug/netstandard2.0/ProyectoXamarinCPIC.AssemblyInfo.cs
+/Users/carlosmendez/Projects/ProyectoXamarinCPIC/ProyectoXamarinCPIC/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/carlosmendez/Projects/ProyectoXamarinCPIC/ProyectoXamarinCPIC/obj/Debug/netstandard2.0/ProyectoXamarinCPIC.dll
+/Users/carlosmendez/Projects/ProyectoXamarinCPIC/ProyectoXamarinCPIC/obj/Debug/netstandard2.0/ProyectoXamarinCPIC.pdb
+/Users/carlosmendez/Projects/ProyectoXamarinCPIC/ProyectoXamarinCPIC/obj/Debug/netstandard2.0/View/HomePageView.xaml.g.cs
+/Users/carlosmendez/Projects/ProyectoXamarinCPIC/ProyectoXamarinCPIC/obj/Debug/netstandard2.0/View/MenuPageView.xaml.g.cs
+/Users/carlosmendez/Projects/ProyectoXamarinCPIC/ProyectoXamarinCPIC/obj/Debug/netstandard2.0/View/FormFill/FormFirstView.xaml.g.cs
+/Users/carlosmendez/Projects/ProyectoXamarinCPIC/ProyectoXamarinCPIC/obj/Debug/netstandard2.0/View/FormFill/FormsSecondView.xaml.g.cs
+/Users/carlosmendez/Projects/ProyectoXamarinCPIC/ProyectoXamarinCPIC/obj/Debug/netstandard2.0/View/FormFill/FormsThirdView.xaml.g.cs

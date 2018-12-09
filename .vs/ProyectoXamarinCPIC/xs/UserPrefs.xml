@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{800EECB5-ACFA-484B-A1D2-45F5B00C6517}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ProyectoXamarinCPIC/Model/CustomerModel.cs">
+    <Files>
+      <File FileName="ProyectoXamarinCPIC/ViewModel/HomeViewModel.cs" Line="103" Column="1" />
+      <File FileName="ProyectoXamarinCPIC/ViewModel/FormViewModel.cs" Line="95" Column="1" />
+      <File FileName="ProyectoXamarinCPIC/Model/CustomerModel.cs" Line="93" Column="17" />
+      <File FileName="ProyectoXamarinCPIC.iOS/Main.cs" Line="17" Column="1" />
+      <File FileName="ProyectoXamarinCPIC/Model/MenuModel.cs" Line="30" Column="35" />
+      <File FileName="ProyectoXamarinCPIC/View/HomePageView.xaml" Line="12" Column="41" />
+      <File FileName="ProyectoXamarinCPIC/View/HomePageView.xaml.cs" Line="14" Column="43" />
+      <File FileName="ProyectoXamarinCPIC/View/MenuPageView.xaml.cs" Line="15" Column="10" />
+      <File FileName="ProyectoXamarinCPIC/View/FormFill/FormFirstView.xaml" Line="21" Column="1" />
+      <File FileName="ProyectoXamarinCPIC/App.xaml" Line="14" Column="15" />
+      <File FileName="ProyectoXamarinCPIC/View/LoginView.xaml" Line="20" Column="1" />
+      <File FileName="ProyectoXamarinCPIC/View/MenuPageView.xaml" Line="23" Column="15" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/carlosmendez/Projects/ProyectoXamarinCPIC/ProyectoXamarinCPIC/Model/MenuModel.cs" relfile="ProyectoXamarinCPIC/Model/MenuModel.cs" line="54" column="1" />
+      <Breakpoint file="/Users/carlosmendez/Projects/ProyectoXamarinCPIC/ProyectoXamarinCPIC/ViewModel/HomeViewModel.cs" relfile="ProyectoXamarinCPIC/ViewModel/HomeViewModel.cs" line="103" column="1" />
+      <Breakpoint file="/Users/carlosmendez/Projects/ProyectoXamarinCPIC/ProyectoXamarinCPIC/Model/CustomerModel.cs" relfile="ProyectoXamarinCPIC/Model/CustomerModel.cs" line="94" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ProyectoXamarinCPIC.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.149276AB-0997-47C7-9978-B8818B62F0EF" />
+  <MonoDevelop.Ide.ItemProperties.ProyectoXamarinCPIC.Android PreferredExecutionTarget="Android.my_device" FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Application xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             x:Class="ProyectoXamarinCPIC.App">
+    <Application.Resources>
+        
+        <ResourceDictionary>
+            <x:String x:Key="User_Text">Usuario</x:String>
+            <x:String x:Key="Password_Text">Contraseña</x:String>
+        </ResourceDictionary>
+        
+        
+    </Application.Resources>
+</Application>
